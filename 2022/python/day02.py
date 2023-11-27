@@ -59,7 +59,6 @@ def parse_input() -> StrategyGuide:
 
     return guide
 
-
 def calc_score(move_opp: Move, move_self: Move) -> int:
     score = move_self.score
 
