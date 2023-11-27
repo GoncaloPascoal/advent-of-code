@@ -13,10 +13,10 @@ def parse_input() -> list[list[int]]:
     ]
 
 
-def part1(elves: list[list[int]]) -> int:
+def part_1(elves: list[list[int]]) -> int:
     return sum(max(elves, key=sum))
 
-def part2(elves: list[list[int]]) -> int:
+def part_2(elves: list[list[int]]) -> int:
     total_calories = sorted((sum(elf) for elf in elves), reverse=True)
     return sum(total_calories[:3])
 
@@ -24,8 +24,8 @@ def part2(elves: list[list[int]]) -> int:
 def main():
     elves = parse_input()
 
-    print(part1(elves))
-    print(part2(elves))
+    print(part_1(elves))
+    print(part_2(elves))
 
 
 if __name__ == '__main__':
