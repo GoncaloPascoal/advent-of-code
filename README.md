@@ -6,10 +6,11 @@
 
 ## [2022](https://www.adventofcode.com/2022)
 
-|  Day  |       Part 1        |       Part 2        |
-| :---: | :-----------------: | :-----------------: |
-|   1   | ![](img/python.png) | ![](img/python.png) |
-|   2   | ![](img/python.png) | ![](img/python.png) |
-|   3   | ![](img/python.png) | ![](img/python.png) |
-|   4   | ![](img/python.png) | ![](img/python.png) |
+| Day |       Part 1        |       Part 2        |
+|:---:| :-----------------: | :-----------------: |
+|  1  | ![](img/python.png) | ![](img/python.png) |
+|  2  | ![](img/python.png) | ![](img/python.png) |
+|  3  | ![](img/python.png) | ![](img/python.png) |
+|  4  | ![](img/python.png) | ![](img/python.png) |
+|  5  | ![](img/python.png) | ![](img/python.png) |
 
