@@ -10,6 +10,7 @@
 |:----------------------------------------:|:-------------------------------------------:|:-------------------------------------------:|
 | [1](https://adventofcode.com/2023/day/1) | [![](img/python.png)](2023/python/day01.py) | [![](img/python.png)](2023/python/day01.py) |
 | [2](https://adventofcode.com/2023/day/2) | [![](img/python.png)](2023/python/day02.py) | [![](img/python.png)](2023/python/day02.py) |
+| [3](https://adventofcode.com/2023/day/3) | [![](img/python.png)](2023/python/day03.py) | [![](img/python.png)](2023/python/day03.py) |
 
 ## [2022](https://www.adventofcode.com/2022)
 
