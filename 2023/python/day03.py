@@ -3,6 +3,7 @@
 Day 3 - Gondola Lift
 """
 
+import functools
 import re
 from typing import Final
 
@@ -52,8 +53,9 @@ def part_2(data: list[str]) -> int:
             start = max(start - 1, 0)
             end = min(end + 1, len(line))
 
-            def append_match(line_idx: int, col_idx: int):
-                gear_to_numbers.setdefault((line_idx, col_idx), []).append(int(number_match.group()))
+            def append_match(match: re.Match, line_idx: int, col_idx: int):
+                gear_to_numbers.setdefault((line_idx, col_idx), []).append(int(match.group()))
+            append_match = functools.partial(append_match, number_match)
 
             if i > 0:
                 for gear_match in re.finditer(GEAR_REGEX, data[i - 1][start:end]):
