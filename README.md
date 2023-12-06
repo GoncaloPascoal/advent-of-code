@@ -17,6 +17,7 @@
 | [2](https://adventofcode.com/2023/day/2) | [![](img/python.png)](2023/python/day02.py) |  ⭐⭐   |
 | [3](https://adventofcode.com/2023/day/3) | [![](img/python.png)](2023/python/day03.py) |  ⭐⭐   |
 | [4](https://adventofcode.com/2023/day/4) | [![](img/python.png)](2023/python/day04.py) |  ⭐⭐   |
+| [5](https://adventofcode.com/2023/day/5) | [![](img/python.png)](2023/python/day05.py) |  ⭐⭐   |
 
 ## [2022](https://www.adventofcode.com/2022)
 
@@ -26,4 +27,4 @@
 | [2](https://adventofcode.com/2022/day/2) | [![](img/python.png)](2022/python/day02.py) |  ⭐⭐   |
 | [3](https://adventofcode.com/2022/day/3) | [![](img/python.png)](2022/python/day03.py) |  ⭐⭐   |
 | [4](https://adventofcode.com/2022/day/4) | [![](img/python.png)](2022/python/day04.py) |  ⭐⭐   |
-| [4](https://adventofcode.com/2022/day/4) | [![](img/python.png)](2022/python/day05.py) |  ⭐⭐   |
+| [5](https://adventofcode.com/2022/day/5) | [![](img/python.png)](2022/python/day05.py) |  ⭐⭐   |
