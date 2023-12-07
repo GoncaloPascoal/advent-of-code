@@ -21,7 +21,7 @@ def parse_input() -> PuzzleInput:
 
 def solve_quadratic(a: Real, b: Real, c: Real) -> tuple[float, float]:
     discriminant = sqrt(b ** 2 - 4 * a * c)
-    return (-b - discriminant) / (2 * a), (-b + discriminant) / (2 * a) 
+    return (-b - discriminant) / (2 * a), (-b + discriminant) / (2 * a)
 
 def winning_combinations(time: int, distance: int) -> int:
     solutions = solve_quadratic(-1, time, -distance)
