@@ -21,6 +21,7 @@
 | [6](https://adventofcode.com/2023/day/6) | [![](img/python.png)](2023/python/day06.py) |  ⭐⭐   |
 | [7](https://adventofcode.com/2023/day/7) | [![](img/python.png)](2023/python/day07.py) |  ⭐⭐   |
 | [8](https://adventofcode.com/2023/day/8) | [![](img/python.png)](2023/python/day08.py) |  ⭐⭐   |
+| [9](https://adventofcode.com/2023/day/9) | [![](img/python.png)](2023/python/day09.py) |  ⭐⭐   |
 
 ## [2022](https://www.adventofcode.com/2022)
 
