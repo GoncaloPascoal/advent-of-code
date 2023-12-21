@@ -6,10 +6,10 @@
 
 ## Table of Contents
 
-- [2023 (24 / 50 ⭐)](#2023-24--50-)
+- [2023 (26 / 50 ⭐)](#2023-26--50-)
 - [2022 (10 / 50 ⭐)](#2022-10--50-)
 
-## [2023](https://www.adventofcode.com/2023) (24 / 50 ⭐)
+## [2023](https://www.adventofcode.com/2023) (26 / 50 ⭐)
 
 |                    Day                     |                  Languages                  | Stars |
 |:------------------------------------------:|:-------------------------------------------:|:-----:|
@@ -25,6 +25,7 @@
 | [10](https://adventofcode.com/2023/day/10) | [![](img/python.png)](2023/python/day10.py) |  ⭐⭐   |
 | [11](https://adventofcode.com/2023/day/11) | [![](img/python.png)](2023/python/day11.py) |  ⭐⭐   |
 | [13](https://adventofcode.com/2023/day/13) | [![](img/python.png)](2023/python/day13.py) |  ⭐⭐   |
+| [14](https://adventofcode.com/2023/day/14) | [![](img/python.png)](2023/python/day14.py) |  ⭐⭐   |
 
 ## [2022](https://www.adventofcode.com/2022) (10 / 50 ⭐)
 
