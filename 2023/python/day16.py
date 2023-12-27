@@ -20,6 +20,20 @@ class Vector2D(NamedTuple):
     def __add__(self, other: Self) -> Self:
         return Vector2D(self.row + other.row, self.col + other.col)
 
+    def __sub__(self, other: Self) -> Self:
+        return Vector2D(self.row - other.row, self.col - other.col)
+
+    def __neg__(self) -> Self:
+        return Vector2D(-self.row, -self.col)
+
+    def neighbors(self) -> tuple[Self, Self, Self, Self]:
+        return (
+            Vector2D(self.row - 1, self.col),
+            Vector2D(self.row + 1, self.col),
+            Vector2D(self.row, self.col - 1),
+            Vector2D(self.row, self.col + 1),
+        )
+
     def rotate_left(self) -> Self:
         return Vector2D(-self.col, self.row)
 
